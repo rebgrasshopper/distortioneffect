@@ -4,7 +4,7 @@
 
 var myAnimation = new hoverEffect({
 	parent: document.querySelector('.images'),
-	image1: './images/img1.png',
-	image2: './images/img2.png',
+	image1: './images/circuits.jpg',
+	image2: './images/stars.jpg',
 	displacementImage: 'images/fluid.jpg'
 });
